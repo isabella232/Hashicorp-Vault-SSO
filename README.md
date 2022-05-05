@@ -57,7 +57,7 @@ path "/secret/*" {
 }
 ```
 
-Create a file called reader.hcl
+Create a file called `reader.hcl`
 ```
 path "/secret/*" {
     capabilities = ["read", "list"]
