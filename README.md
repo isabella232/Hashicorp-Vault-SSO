@@ -33,7 +33,7 @@ vault status
 
 ### Create OIDC Client Application
 
-Populate the configuration page with the following details.
+Populate the configuration page with the following details in ForgeRock Access Management.
 * Navigate to Applications -> OAuth 2.0 -> clients
 * Click `add client`
 * `Client ID`: Client ID to use with vault OIDC in next step.
