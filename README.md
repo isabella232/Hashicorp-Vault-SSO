@@ -47,7 +47,7 @@ Populate the configuration page with the following details in ForgeRock Access M
 
 ### Create Vault Policies
 
-This is a tutorial on how to set up Vault policies.
+This is an example of setting up Vault policies. More information on Vault policies can be found [here](https://www.vaultproject.io/docs/concepts/policies).
 
 Create a file called `manager.hcl`
 ```
